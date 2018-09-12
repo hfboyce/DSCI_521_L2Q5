@@ -1,9 +1,14 @@
-# DSCI_521_L2Q5
-Answering Lab 2 Question 5
+#DSCI_521_lab_2_Hfboyce
 
-The following file is of relevance for grading:
+DSCI 521 lab_2 for HAYLEY BOYCE (Hfboyce)
+
+The following files is of relevance for grading:
 
 | File | Description |
 |---|---|
-| [Question 5](https://github.com/hfboyce/DSCI_521_L2Q5/blob/master/Question5.ipynb) | My answer to Lab 2: Question 5 |
-| [Binder Badge](https://hub.mybinder.org/user/hfboyce-dsci_521_l2q5-8l5scyso/tree) | Binder Badge for executable environment |
+| [Lab 2 Solution](https://github.ubc.ca/MDS-2018-19/DSCI_521_lab_2_Hfboyce/blob/master/lab2.ipynb) | My solution file to Lab 2 |
+| [First Blog Screen shot](https://github.ubc.ca/MDS-2018-19/DSCI_521_lab_2_Hfboyce/blob/master/Firstblogpostscreenshot.png) | my screen shot to my blog |
+| [Lab 2 Q5 Repository](https://github.ubc.ca/MDS-2018-19/DSCI_521_lab_2_Hfboyce/tree/master/DSCI_521_L2Q5) | my repost I pushed to github.com|
+
+
+

@@ -1,5 +1,5 @@
-# DSCI_521_L2Q5
-Answering Lab 2 Question 5
+# DSCI_521_L2Q6
+Answering Lab 2 Question 6
 
 The following file is of relevance for grading:
 
